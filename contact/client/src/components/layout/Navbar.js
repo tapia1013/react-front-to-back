@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types'
 import { Link } from 'react-router-dom';
-
+v
 
 const Navbar = ({ title, icon }) => {
   return (
@@ -36,10 +36,3 @@ Navbar.defaultProps = {
 export default Navbar;
 
 
-/**
- *
- *  video 3 contact context and Global state
- *   @ 0:27sec
- *
- *   npm run dev
- */
