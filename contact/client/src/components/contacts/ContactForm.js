@@ -87,5 +87,4 @@ const ContactForm = () => {
 }
 
 
-// video 5. contactFOrm component @ 15:05s
 export default ContactForm;
