@@ -56,7 +56,7 @@ router.post(
       const isMatch = await bcrypt.compare(password, user.password);
 
       if (!isMatch) {
-        return res.status(400).json({ msg: 'Invalid Credentials' })
+        return res.status(400).json({ msg: 'Invlaid Credentials' })
       }
 
 
@@ -86,8 +86,6 @@ router.post(
 
   })
 
-
-// video 5 auth middlewared
 
 
 module.exports = router;
