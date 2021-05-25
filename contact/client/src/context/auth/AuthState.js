@@ -116,5 +116,4 @@ const AuthState = props => {
 
 
 
-// video 5 load user and set token
 export default AuthState;
