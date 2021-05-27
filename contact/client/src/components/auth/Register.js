@@ -134,6 +134,5 @@ const Register = (props) => {
   )
 }
 
-// video 4 user registration
 
 export default Register;
