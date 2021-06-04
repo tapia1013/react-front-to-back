@@ -23,6 +23,11 @@ const PrivateRoute = ({ component: Component, ...rest }) => {
 
 
 
+
+
+
+
+
 export default PrivateRoute;
 
 
@@ -30,4 +35,4 @@ export default PrivateRoute;
 
 
 
-// CONTACTS API VIDEO 1
+// CONTACTS API VIDEO 1 watch
